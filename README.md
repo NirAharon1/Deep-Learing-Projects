@@ -1,6 +1,6 @@
 # Welcome to my Deep Learing Projects
 
-### Project 1 - Deepfake voice detection
+###  <span style="color:red">Project 1 - Deepfake voice detection text</span>
 
 
 ![Project Image](https://github.com/NirAharon1/Deep-Learing-Projects/blob/main/WavToSpecToClassification.PNG)
@@ -21,7 +21,7 @@ The test set also includes two attacks (A16, A19) that use the same algorithms a
 
 link to ASVspoof 2019 challenge: https://www.asvspoof.org/index2019.html
 
-### Net architecture
+### utility functions
 The initial input was ten-second audio, I extract to most important one second from the hole ten seconds using NumPy trapezoidal rule:
 
 ```python
@@ -42,5 +42,5 @@ Then I convert the audio with mel-frequency cepstrum
 ```python
 librosa.feature.mfcc()
 ```
-
+### Net architecture
 the net architecture was simple and made by three 2D convolutions layers following max-pull to four linear dense layers with RELU activation function  
