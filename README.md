@@ -1,6 +1,6 @@
 # Welcome to my Deep Learing Projects
 
-###  <span style="color:red">Project 1 - Deepfake voice detection text</span>
+###  <span style="color:red">Project 1 - Deepfake voice detection</span>
 
 
 ![Project Image](https://github.com/NirAharon1/Deep-Learing-Projects/blob/main/WavToSpecToClassification.PNG)
